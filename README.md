@@ -113,6 +113,6 @@ This project focuses on:
 **Abhay Chayal**
 
 ---
-live at: -   
+live at: -   https://registration-wizard-kohl.vercel.app/
 
 ⭐ If you found this useful, consider giving the repo a star!
